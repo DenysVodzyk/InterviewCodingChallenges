@@ -28,3 +28,7 @@ You can return the answer in any order.
 - Reverse String:
 
 Reverse a String with the help of two solutions.
+
+- Stack Implementation:
+
+Implement stack using array. API should have following methods: push(int item), peek(), pop().
