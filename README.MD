@@ -32,3 +32,7 @@ Reverse a String with the help of two solutions.
 - Stack Implementation:
 
 Implement stack using array. API should have following methods: push(int item), peek(), pop().
+
+- Number Occurrence Count
+
+Given an array of integers. Right a method that would return a map that consist of an integer with the number of its occurrences in the array.
