@@ -33,6 +33,10 @@ Reverse a String with the help of two solutions.
 
 Implement stack using array. API should have following methods: push(int item), peek(), pop().
 
-- Number Occurrence Count
+- Number Occurrence Count:
 
 Given an array of integers. Right a method that would return a map that consist of an integer with the number of its occurrences in the array.
+
+- Third Maximum Number:
+
+Given integer array nums, return the third maximum number in this array. If the third maximum does not exist, return the maximum number.
