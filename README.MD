@@ -43,4 +43,4 @@ Given integer array nums, return the third maximum number in this array. If the 
 
 - ReverseInteger: 
 
-Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-2U U+00B3 U+00B9, 2^31 - 1], then return 0.
+Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-2^31, 2^31 - 1], then return 0.
