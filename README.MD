@@ -44,3 +44,7 @@ Given integer array nums, return the third maximum number in this array. If the 
 - ReverseInteger: 
 
 Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-2^31, 2^31 - 1], then return 0.
+
+- StringReverse: 
+
+Write a function that reverses a string. The input string is given as an array of characters s. Follow up: Do not allocate extra space for another array. You must do this by modifying the input array in-place with O(1) extra memory.
