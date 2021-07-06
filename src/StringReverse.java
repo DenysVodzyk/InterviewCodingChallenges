@@ -14,7 +14,6 @@ public class StringReverse {
             end = s[i];
             s[i] = start;
             s[s.length - i - 1] = end;
-            i++;
         }
     }
 }
