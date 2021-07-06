@@ -48,3 +48,7 @@ Given a signed 32-bit integer x, return x with its digits reversed. If reversing
 - StringReverse: 
 
 Write a function that reverses a string. The input string is given as an array of characters s. Follow up: Do not allocate extra space for another array. You must do this by modifying the input array in-place with O(1) extra memory.
+
+- PalindromeNumber:
+
+Given an integer x, return true if x is palindrome integer. An integer is a palindrome when it reads the same backward as forward. For example, 121 is palindrome while 123 is not.
