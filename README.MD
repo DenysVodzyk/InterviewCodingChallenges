@@ -52,3 +52,6 @@ Write a function that reverses a string. The input string is given as an array o
 - PalindromeNumber:
 
 Given an integer x, return true if x is palindrome integer. An integer is a palindrome when it reads the same backward as forward. For example, 121 is palindrome while 123 is not.
+
+- ScrambleGameString:
+We have a list of letters, and we need to check whether the word can be created based on this list. Letters cannot be reused (we need to count the number of letters available). There is a wildcard, that can replace any letter.
