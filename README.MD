@@ -55,3 +55,7 @@ Given an integer x, return true if x is palindrome integer. An integer is a pali
 
 - ScrambleGameString:
 We have a list of letters, and we need to check whether the word can be created based on this list. Letters cannot be reused (we need to count the number of letters available). There is a wildcard, that can replace any letter.
+
+- Number Of Repeats:
+
+You have an array of strings (i.e. ["dog", "cat", "fish", "cat", "dog", "cat"]). You need to create an algorithm to return the string that is present in the array most of the time (i.e. "cat" in the case above).
